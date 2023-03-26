@@ -1,2 +1,1 @@
-# prepcoursehenryy
-practica curso henry
+este proyecto es una prueba de como crear repositorio  clonarlo desde gibhub a escritorio 
